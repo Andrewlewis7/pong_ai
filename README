@@ -1,0 +1,16 @@
+The controls are WASD and SPACE for selecting any of the menu screen options.
+For two player the controls are WS and the up and down arrow keys. 
+Single Player is just W and S.
+
+Occasionally the ball will get stuck at the edge of the paddles. I didn't have time to figure out 
+how to solve this, it's something to do with how Pygame handles collisions. Duh. Dunno how to fix it. 
+
+There is no end screen so just close and rerun the program if a glitch happens or if you're done playing. 
+
+Hitting the ball with the middle of the paddle makes it speed up which is way more exciting. If you hit the ball too many times in the middle it will fly at warp speed through any paddle, pygame doesnt have time to detect the collision. 
+
+
+Good luck beating the bot on hard mode. Try getting 2 points. 
+
+Its possible. 
+
